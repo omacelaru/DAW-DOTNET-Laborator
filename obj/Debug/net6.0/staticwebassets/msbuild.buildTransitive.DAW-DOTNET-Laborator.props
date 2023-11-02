@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DAW-DOTNET-Laborator.props" />
+</Project>

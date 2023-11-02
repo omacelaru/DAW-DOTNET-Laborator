@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DAW-DOTNET-Laborator.props" />
+</Project>
